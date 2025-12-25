@@ -28,8 +28,7 @@ def fetch_long_videos(urls):
 
 if __name__ == "__main__":
     channel_list = [
-        "https://www.youtube.com/@8-hkmovie",
-        "https://www.youtube.com/@chnclassic"
+        "https://www.youtube.com/@8-hkmovie"
     ]
     
     final_data = fetch_long_videos(channel_list)
