@@ -1,14 +1,38 @@
-- name: Run scraper
+name: Auto Scrape YouTube Links
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 重要：賦予寫入權限才能推送到 GitHub
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install yt-dlp
+
+      - name: Run scraper
         run: python fetch_videos.py
 
       - name: Check if file exists
-        run: ls -l movie_links.txt # 如果這裡報錯，代表 Python 沒成功寫入檔案
+        run: ls -l movie_links.txt
 
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add movie_links.txt
-          # 加上 || echo 避免因為沒有內容更新而導致整個 Workflow 失敗
           git commit -m "Update links: $(date)" || echo "No changes to commit"
           git push
