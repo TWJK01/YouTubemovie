@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # 重要：賦予寫入權限才能推送到 GitHub
+      contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -20,19 +20,15 @@ jobs:
           python-version: '3.9'
 
       - name: Install dependencies
-        run: |
-          pip install yt-dlp
+        run: pip install yt-dlp
 
       - name: Run scraper
         run: python fetch_videos.py
-
-      - name: Check if file exists
-        run: ls -l movie_links.txt
 
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add movie_links.txt
-          git commit -m "Update links: $(date)" || echo "No changes to commit"
+          git commit -m "Update movie list: $(date)" || echo "No changes to commit"
           git push
