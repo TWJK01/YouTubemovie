@@ -5,18 +5,20 @@ def fetch_classified_videos(urls):
     ydl_opts = {
         'extract_flat': True, 
         'quiet': True,
-        'match_filter': yt_dlp.utils.match_filter_func("duration > 1200"), # 20分鐘以上
+        # 篩選 20 分鐘 (1200秒) 以上的影片
+        'match_filter': yt_dlp.utils.match_filter_func("duration > 1200"),
     }
     
     mandarin_list = []
     cantonese_list = []
-    other_list = []
     
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         for channel_url in urls:
             try:
+                # 自動補上 /videos 確保抓取影片分頁
                 target = channel_url if "/videos" in channel_url else f"{channel_url}/videos"
                 info = ydl.extract_info(target, download=False)
+                
                 if 'entries' in info:
                     for entry in info['entries']:
                         if not entry: continue
@@ -24,40 +26,37 @@ def fetch_classified_videos(urls):
                         title = entry.get('title', '')
                         video_url = f"https://www.youtube.com/watch?v={entry.get('id')}"
                         
-                        # 根據關鍵字分類並格式化
+                        # 根據標題判斷語言分類
                         if "國語" in title:
-                            mandarin_list.append(f"國語,#genre# {title},{video_url}")
+                            mandarin_list.append(f"{title},{video_url}")
                         elif "粵語" in title:
-                            cantonese_list.append(f"粵語,#genre# {title},{video_url}")
-                        else:
-                            other_list.append(f"其他,#genre# {title},{video_url}")
+                            cantonese_list.append(f"{title},{video_url}")
             except Exception as e:
-                print(f"Error skipping {channel_url}: {e}")
+                print(f"Error processing {channel_url}: {e}")
                 
-    return mandarin_list, cantonese_list, other_list
+    return mandarin_list, cantonese_list
 
 if __name__ == "__main__":
+    # 您可以根據需求在此清單加入多個頻道網址
     channels = [
         "https://www.youtube.com/@8-hkmovie"
     ]
     
-    m_list, c_list, o_list = fetch_classified_videos(channels)
+    m_list, c_list = fetch_classified_videos(channels)
     
     with open("movie_links.txt", "w", encoding="utf-8") as f:
-        # 先寫入國語
-        f.write("=== 國語電影 ===\n")
-        for line in m_list:
-            f.write(line + "\n")
+        # --- 輸出國語部分 ---
+        if m_list:
+            f.write("國語,#genre#\n")
+            for item in m_list:
+                f.write(item + "\n")
+            f.write("\n") # 區隔空行
         
-        # 再寫入粵語
-        f.write("\n=== 粵語電影 ===\n")
-        for line in c_list:
-            f.write(line + "\n")
-            
-        # 其他（未標註語言的）
-        if o_list:
-            f.write("\n=== 其他 ===\n")
-            for line in o_list:
-                f.write(line + "\n")
+        # --- 輸出粵語部分 ---
+        if c_list:
+            f.write("粵語,#genre#\n")
+            for item in c_list:
+                f.write(item + "\n")
+            f.write("\n")
                 
-    print("分類抓取完成！")
+    print("檔案已依照指定格式產生：movie_links.txt")
