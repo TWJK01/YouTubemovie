@@ -1,4 +1,5 @@
 國語,#genre#
+鄭文雅巔峰顏值出演 展現華人女性在異鄉與本土間的生存韌性｜女人風情話 (國語) Hong Kong Grafitti｜倪淑君｜左燕翎｜陳婉麗｜國語中英字幕｜8號電影院 HK Movie｜香港電影01,https://www.youtube.com/watch?v=lllC6vLq4Us
 武俠宗師郭南宏經典 上官靈鳳、田鵬展現硬核功夫 還原洪武年間最驚心動魄「一代忠良」傳奇！｜少林小子 (The Shaolin Kids)｜黃家達｜林風｜國語中字｜8號電影院 HK Movie｜美亞,https://www.youtube.com/watch?v=GldutPBZOnk
 黃光亮挑戰周星馳經典角色？關詠荷展現英雌本色 與惡人宋世傑聯手公堂翻案｜審死官翻案 (國語) Justice My Foot｜陳妙瑛｜周仁杰｜國語中英字幕｜8號電影院 HK Movie｜香港電影01,https://www.youtube.com/watch?v=YcR3kR4FQJE
 當街舞少女勇闖深圳 賭上哥哥自由的冠軍之戰 從芭蕾舞落選到稱霸街舞擂台｜熱血街頭 (Fearless)｜李斯丹妮｜柯有倫｜陳喬希｜王傳君｜國語中字｜8號電影院 HK Movie｜美亞,https://www.youtube.com/watch?v=qtEeMkNMvWE
@@ -11,7 +12,6 @@
 鄭文雅因賭欠債 蘇明明遭夫逼良為娼 兩位異鄉女性在寒冷的日本如何絕地求生？｜異鄉故事 (國語) Sapporo Story｜矢島健一｜國語中字｜8號電影院 HK Movie｜香港電影01,https://www.youtube.com/watch?v=iVQOJTLAPaQ
 為了尋找死而復生的丈夫踏上被詛咒的小鎮 這不是鬼片 而是讓你冷汗直流的視覺噩夢！｜詭鎮 (The Apostles)｜何超儀｜夏凡｜林雪｜周楚楚｜謝承均｜國語中字｜8號電影院 HK Movie｜美亞,https://www.youtube.com/watch?v=xt5hFom52XY
 當熱血搖滾變成奪命驚悚？荒郊別墅內隱藏的長髮女鬼與黑衣蒙面人，究竟誰才是真兇！｜蝙蝠別墅 (Murcielago)｜鄧紫衣｜武藝｜段黃巍｜賀賢威｜國語中字｜8號電影院 HK Movie｜美亞,https://www.youtube.com/watch?v=d8NmIaZjJ3w
-鄭文雅巔峰顏值出演 展現華人女性在異鄉與本土間的生存韌性｜女人風情話 (國語) Hong Kong Grafitti｜倪淑君｜左燕翎｜陳婉麗｜國語中英字幕｜8號電影院 HK Movie｜香港電影01,https://www.youtube.com/watch?v=lllC6vLq4Us
 霸總遇上臥底女？從做嫁衣到自創品牌：勵志女神的職場尋愛記！｜一見未鐘情 (Love needs One More Sight)｜王曉｜崔可法｜駱達華｜國語中字｜8號電影院 HK Movie｜美亞,https://www.youtube.com/watch?v=m8j6eI7Ardk
 硬派Cult經典回歸 周潤發 最狠最魅的神級軍佬造型 子彈彈道神級美學｜俠盜高飛 (國語) Full Contact｜黃秋生｜柏安妮｜國語中英字｜8號電影院 HK Movie｜美亞,https://www.youtube.com/watch?v=6bItxD_4BZU
 林國斌最狠的一部 重現90年代香港屋村喋血 大開殺戒以暴制暴終結黑道霸凌｜火爆浪子 (國語) Angry Ranger｜梁婉靜｜孟龍｜孫建｜國語配音英文字幕｜8號電影院 HK Movie｜香港電影01,https://www.youtube.com/watch?v=UvYOJB1b2NA
@@ -323,7 +323,7 @@ TVB經典港產電視電影｜飛越校園 (國語) Class of Disobedience｜張�
 
 粵語,#genre#
 廖偉雄與商天娥聯手演繹港史最爭議命案 諷刺法網背後盲區 1993年最震撼犯罪懸疑經典｜箱屍奇案 (Justice Is Blind)｜商天娥｜黎漢持｜粵語中字｜電視電影｜8號電影院 HK Movie,https://www.youtube.com/watch?v=AMNTeb4_0hw
-梁朝偉首座金像獎作！青澀小賊對決霸氣狄龍 1987年最震撼香港犯罪傳奇｜人民英雄 (People's Hero)｜狄龍｜梁朝偉｜梁家輝｜金燕玲｜秦沛｜粵語中字｜8號電影院 HK Movie｜美亞,https://www.youtube.com/watch?v=ddMvl_8NRYk
+當慌張小賊遇上悲情大佬！梁朝偉憑《人民英雄》封神之作，對位影帝狄龍的雷霆氣場｜人民英雄 (People's Hero)｜狄龍｜梁朝偉｜梁家輝｜金燕玲｜秦沛｜粵語中字｜8號電影院 HK Movie｜美亞,https://www.youtube.com/watch?v=ddMvl_8NRYk
 張堅庭×鄭丹瑞 美港兩地太子爺強強聯手 展開臥底武術團緝毒大戰｜太子爺出差 (Freedom Run)｜張堅庭｜鄭丹瑞｜李美鳳｜翁虹｜粵語原聲/中英CC字幕｜8號電影院 HK Movie｜香港電影01,https://www.youtube.com/watch?v=4Bi_PQSZH9I
 黃日華、黎美嫻巔峰作 比恐怖片更寫實 揭開90年代香港夾心階層爆裂邊緣無助吶喊｜都市風暴 (Man on The Verge) ｜夏韶聲｜馬德鐘｜羅蘭｜粵語中字｜電視電影｜8號電影院 HK Movie,https://www.youtube.com/watch?v=aiAzwfSOPCM
 港版《尼基塔》性感女神變身冷面殺手 受命刺殺大毒梟 最火爆的特工重生傳奇｜火辣師妹 (Point of No Return)｜林雅詩｜陳芷菁｜呂頌賢｜猛丁哥｜粵語中字｜8號電影院HK Movie｜美亞,https://www.youtube.com/watch?v=t7n07vLTDMI
@@ -727,6 +727,7 @@ Maggie Q、林雪 港產片｜一屋兩火 (The Trouble-Makers)｜Maggie Q｜尹
 李兆基 惠英紅 重現江湖風雲 硬派黑幫鉅製｜江湖篇之金牌打手 (The Secret Society)｜吳志雄｜曹永廉｜謝天華｜尹揚明｜粵語中字｜ENGSUB｜ 8號電影院 HK Movie｜美亞,https://www.youtube.com/watch?v=0Q27SdUKoSo
 陳惠敏 主演港產片｜老薑 (Outburst)｜陳惠敏｜陳豪｜陳鳳儀｜黎強權｜粵語中字｜ENGSUB｜香港電影｜8號電影院 HK movie｜美亞,https://www.youtube.com/watch?v=qSoS95shhF8
 性感女神朱茵 鬼后羅蘭 問米問出恐怖故事…｜生人勿近之問米 (Horoscope1:The Voice From Hell)｜錢嘉樂｜雷宇揚｜粵語中字｜8號電影院 HK Movie｜恐怖靈異｜美亞,https://www.youtube.com/watch?v=Ox2GrRAbDNY
+穿梭陰陽界 (The Surgeon)｜湯振業｜喻可欣｜蘇明明｜任喜寶｜粵語中字｜香港電影｜8號電影院 HK movie 會員專屬｜美亞｜情妓,https://www.youtube.com/watch?v=d9Bv4hMUqpg
 黑幫委託 莫斯科槍戰 梁家仁 高飛 血色羈絆｜殺手情未冷 (A Sympathetic Killer)｜梁家仁｜高飛｜伊莎貝拉·克魯茲｜粵語中字｜動作片｜ 8號電影院 HK Movie｜美亞,https://www.youtube.com/watch?v=FoaKp3vMKbM
 李麗珍 90年代女神｜花園街1號 (Love In Garden Street)｜李麗珍｜陳錦鴻｜姚樂怡｜陳敏之｜王喜｜8號電影院 HK Movie｜粵語中字｜香港電影｜美亞,https://www.youtube.com/watch?v=Zeqf_IY6dzk
 媽媽要我嫁 (The Happy Wedlock)｜蕭芳芳｜薛家燕｜曾江｜粵語中字｜粵語長片｜劇情片｜香港電影｜8號電影院 HK Movie｜美亞,https://www.youtube.com/watch?v=xSRNcB8QBVA
@@ -737,6 +738,7 @@ Maggie Q、林雪 港產片｜一屋兩火 (The Trouble-Makers)｜Maggie Q｜尹
 李麗珍 90年代女神｜少年衛斯理II之聖女轉生 (Young Wisely II)｜吳大維｜李麗珍｜黃錦燊｜8號電影院 HK Movie｜粵語中字｜奇幻驚悚｜香港電影｜美亞｜少年衛斯理系列,https://www.youtube.com/watch?v=mlDq3hsFnPc
 李麗珍 90年代女神｜少年衛斯理之天魔之子 (Young Wisely I)｜吳大維｜李麗珍｜吳家麗｜黃錦燊｜8號電影院 HK Movie｜粵語中字｜奇幻驚悚｜香港電影｜美亞｜少年衛斯理系列,https://www.youtube.com/watch?v=uBLIdGpYXV8
 飛虎雄師之邊緣人 (The New Option - Puppet Hon)｜王敏德｜黃浩然｜關秀媚｜粵語中字｜犯罪片｜動作片｜香港電影｜美亞,https://www.youtube.com/watch?v=5PVKjXV68_4
+烈血快車 (Taxi Driver)｜陳芷菁｜馬德鐘｜羅蘭｜李耀明｜粵語中字｜動作片｜香港電影｜美亞,https://www.youtube.com/watch?v=ij1frLgrgI0
 補鑊英雄 (Welcome)｜葉倩文｜葉德嫻｜粱普智｜林威｜8號電影院 HK Movie 會員專屬｜粵語中字｜美亞,https://www.youtube.com/watch?v=ZbM6CcsKd7Q
 【8號電影院】愛您愛到殺死您 (Trailer 中文預告片)｜黎明｜鄭秀文｜吳君如｜粵語中字｜香港電影｜Hong Kong Movie｜美亞,https://www.youtube.com/watch?v=7TccIhNZNzE
 星語心願 (Home in My Heart)｜舒淇｜吳辰君｜王千源｜劇情片｜8號電影院　會員專屬｜粵語中字｜美亞,https://www.youtube.com/watch?v=lQyw6mh-z_A
